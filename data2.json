@@ -1,0 +1,22 @@
+{
+    "Athletes": [
+        {
+            "name": "Athlete1",
+            "group_lesson": [
+                "Zumba",
+                "HITT",
+                "Yoga"
+            ],
+            "start_date": "12-02-2013"
+        },
+        {
+            "name": "Athlete2",
+            "group_lesson": [
+                "Boxing",
+                "Fitness"
+            ],
+            "start_date": "12-02-2013"
+        }
+    ],
+    "test": true
+}
