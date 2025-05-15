@@ -1,7 +1,7 @@
-# 📌 Project Title
+# 📌 Athlete Management System
 **Building my first own API!**
 
-## 📄 Description
+## 🎯 API Purpose
 The API makes it possible for the gym to register the instructors and the athletes. It also provides the instructors with a personal access code. 
 Further relevant information of the athlete can be stored: contact information, the contact person, group lesson, level, etc.
 
