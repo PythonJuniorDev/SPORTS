@@ -1,4 +1,4 @@
-# 📌 Athlete Management System
+# 🏋️ Athlete Management System
 **Building my first own API!**
 
 ## 🎯 API Purpose
